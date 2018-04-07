@@ -1,0 +1,12 @@
+.. user_guide documentation master file, created by
+   sphinx-quickstart on Fri Feb  2 15:09:21 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Документация информационной системы аптеки
+==========================================
+
+.. toctree::
+   :maxdepth: 1
+
+   Структура<struct>
